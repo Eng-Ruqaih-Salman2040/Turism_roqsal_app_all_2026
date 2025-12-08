@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102748983790",
+    "project_id": "emey-zyad",
+    "storage_bucket": "emey-zyad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102748983790:android:92535a9729208f8d6a7eff",
+        "android_client_info": {
+          "package_name": "com.example.roqsal_damar_flutter2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZRQZqwEAij-KPX4p_YonL1eXkX8VTag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
